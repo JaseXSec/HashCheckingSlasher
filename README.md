@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Hash_Slinging_Slasher.webp" alt="HashCheckingSlasher Logo" width="200"/>
+</p>
+
 # HashCheckingSlasher
 
 A command-line tool to check password strength and verify if it has been exposed in data breaches using the HaveIBeenPwned API.
